@@ -41,6 +41,8 @@ plt.xticks(rotation=0)
 # κώδικας για ονοματίσω τον y άξονα
 plt.ylabel('Number of Customers')
 
+plt.savefig("../images/churn_count.png")
+
 plt.show()
 
 #Δημιουργία  tenure bins δηλαδή ομαδοποιώ τους πελάτες με βάση το πόσο καιρό έιναι με την εταιρία
@@ -89,6 +91,8 @@ plt.xlabel('Contract Type')
 plt.ylabel('Number of Customers')
 plt.xticks(rotation=0)
 plt.legend(title='Churn')
+plt.savefig("../images/contract_analysis.png")
+
 plt.show()
 
 # Εμφάνιση των columns
@@ -260,6 +264,8 @@ plt.title('ROC Curve')
 
 plt.legend()
 
+plt.savefig("../images/roc_curve.png")
+
 plt.show()
 
 # Δημιουργία μικρότερου Threshold καθώς μας νοιάζει παραπάνω να φέυγουν λιγότεροι πελάτες
@@ -391,6 +397,9 @@ plt.barh(
 
 plt.title('Top 10 Positive Logistic Regression Coefficients')
 
+plt.savefig("../images/feature_importance_positive.png")
+
+plt.show()
 # και το αντιθετο
 bottom_features = coefficients.tail(10)
 
@@ -406,6 +415,8 @@ plt.title('Top 10 Churn Drivers')
 plt.xlabel('Coefficient Value')
 
 plt.ylabel('Feature')
+
+plt.savefig("../images/churn_drivers.png")
 
 plt.show()
 
