@@ -9,29 +9,44 @@ The goal is to identify customers who are likely to leave the company and provid
 
                                                   Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-Learn
-Logistic Regression
+Python,
+
+Pandas,
+
+NumPy,
+
+Matplotlib,
+
+Scikit-Learn,
+
+Logistic Regression,
+
 Random Forest
 
 
                                                   Model Performance
 
 Logistic Regression
-Accuracy: 79.39%
-Precision: 64.19%
-Recall: 54.82%
-F1 Score: 59.14%
-ROC-AUC: 84.11%
+Accuracy: 79.39%,
+
+Precision: 64.19%,
+
+Recall: 54.82%,
+
+F1 Score: 59.14%,
+
+ROC-AUC: 84.11%,
+
 
 Random Forest
-Accuracy: 77.59%
-Precision: 60.96%
-Recall: 49.04%
-F1 Score: 54.35%
+Accuracy: 77.59%,
+
+Precision: 60.96%,
+
+Recall: 49.04%,
+
+F1 Score: 54.35%,
+
 ROC Curve
 
 
