@@ -1,13 +1,13 @@
                                             # customer-churn-prediction
 Machine learning project for predicting telecom customer churn using Logistic Regression and Random Forest.
 
-                                              Project Overview
+                                               Project Overview
 
 This project predicts customer churn for a telecommunications company using machine learning techniques.
 
 The goal is to identify customers who are likely to leave the company and provide business recommendations to improve customer retention.
 
--- Technologies Used
+                                               Technologies Used
 
 Python
 Pandas
@@ -18,7 +18,7 @@ Logistic Regression
 Random Forest
 
 
--- Model Performance
+                                              Model Performance
 
 Logistic Regression
 Accuracy: 79.39%
@@ -47,7 +47,7 @@ Key Retention Factors
 Main Churn Drivers
 
 
--- Business Recommendations
+                                          Business Recommendations
 
 Encourage long-term contracts
 Improve onboarding of new customers
