@@ -65,7 +65,11 @@ Main Churn Drivers
                                                 Business Recommendations
 
 Encourage long-term contracts,
+
 Improve onboarding of new customers,
+
 Promote Tech Support and Security services,
+
 Investigate Fiber Optic customer dissatisfaction,
+
 Develop proactive retention campaigns
