@@ -47,7 +47,7 @@ Key Retention Factors
 Main Churn Drivers
 
 
-                                                   Business Recommendations
+                                                Business Recommendations
 
 Encourage long-term contracts
 Improve onboarding of new customers
